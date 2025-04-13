@@ -1,16 +1,23 @@
-# 👋 Hi there, I'm Somesh Shetty (@ssomeshetty)
+# 👋 Hi there, I'm Sangamesh (@ssomeshetty)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Django+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Problem+Solver;" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ssomeshetty&style=flat-square&color=blueviolet" alt="Profile views" />
 </div>
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on Django and Python projects
-- 🌱 I'm constantly learning and improving my skills in data analysis with Pandas and NumPy
-- 👯 I'm looking to collaborate on open source Django projects
-- 💬 Ask me about Python, Django, SQL databases, and web development
+<img align="right" height="150" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="Coding GIF" />
+
+- 🔭 I'm currently working on **ML Projects**
+- 🌱 I'm constantly learning and improving my skills in **Machine Learning**
+- 💬 Ask me about **Python, Django, databases, and web development**
 - 📫 How to reach me: [GitHub](https://github.com/ssomeshetty)
+
+<br clear="both">
 
 ## 🛠️ Technologies & Tools
 
@@ -37,30 +44,33 @@
   
 </div>
 
+## 📈 My Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssomeshetty&theme=nightowl&hide_border=true" alt="Somesh's Activity Graph" />
+</div>
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssomeshetty&show_icons=true&theme=radical" alt="Somesh's GitHub Stats" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ssomeshetty&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssomeshetty&theme=radical&hide_border=true" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssomeshetty&theme=radical" alt="Somesh's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssomeshetty&layout=compact&theme=radical" alt="Somesh's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssomeshetty&theme=radical&hide_border=true&layout=compact" alt="Somesh's Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ssomeshetty&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Somesh's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ssomeshetty&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="Somesh's Trophies" />
 </div>
 
-## 📈 Activity Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssomeshetty&theme=react-dark" alt="Somesh's Activity Graph" />
+  <img src="https://raw.githubusercontent.com/ssomeshetty/ssomeshetty/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 🔗 Connect with me
@@ -68,23 +78,9 @@
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssomeshetty)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ssomeshetty)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ssomeshetty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangameshsomeshetty/)
   
-</div>
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ssomeshetty&cover_image=true&theme=novatorem" alt="Spotify" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ssomeshetty&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-</div>
