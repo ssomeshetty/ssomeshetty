@@ -67,10 +67,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ssomeshetty&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="Somesh's Trophies" />
 </div>
 
-## 🐍 Contribution Snake
-
-![GitHub Snake Light](https://raw.githubusercontent.com/ssomeshetty/ssomeshetty/main/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/ssomeshetty/ssomeshetty/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 ## 🔗 Connect with me
